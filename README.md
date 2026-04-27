@@ -57,12 +57,12 @@ Sensors → ARM Controller → CAN Transceiver → CAN Bus → Instrument Cluste
 ---
 
 🛠️ Hardware Components
-🔹 ARM Microcontroller (LPC / similar)
-🔹 CAN Controller (MCP2515)
-🔹 CAN Transceiver (TJA1050)
-🔹 Sensors (Temperature, Fuel, etc.)
-🔹 LCD / Display Unit
-🔹 Power Supply
+- 🔹 ARM Microcontroller (LPC / similar) 
+- 🔹 CAN Controller (MCP2515) 
+- 🔹 CAN Transceiver (TJA1050) 
+- 🔹 Sensors (Temperature, Fuel, etc.) 
+- 🔹 LCD / Display Unit 
+- 🔹 Power Supply 
 
 ---
 
