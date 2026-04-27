@@ -85,11 +85,11 @@ Sensors → ARM Controller → CAN Transceiver → CAN Bus → Instrument Cluste
 ---
 
 ✨ Key Features
-🚗 Real-time vehicle data monitoring
-🔄 CAN-based communication between nodes
-📟 Instrument cluster display simulation
-⚡ Fast and reliable data transfer
-🔔 Alert system for abnormal values
+- 🚗 Real-time vehicle data monitoring
+- 🔄 CAN-based communication between nodes
+- 📟 Instrument cluster display simulation
+- ⚡ Fast and reliable data transfer
+- 🔔 Alert system for abnormal values
 
 ---
 
