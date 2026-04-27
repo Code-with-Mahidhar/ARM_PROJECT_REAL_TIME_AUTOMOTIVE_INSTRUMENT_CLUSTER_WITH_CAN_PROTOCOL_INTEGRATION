@@ -54,6 +54,8 @@ Sensors → ARM Controller → CAN Transceiver → CAN Bus → Instrument Cluste
 
 👉 The system uses CAN bus for communication between nodes, ensuring reliable and real-time data exchange.
 
+---
+
 🛠️ Hardware Components
 🔹 ARM Microcontroller (LPC / similar)
 🔹 CAN Controller (MCP2515)
@@ -62,12 +64,16 @@ Sensors → ARM Controller → CAN Transceiver → CAN Bus → Instrument Cluste
 🔹 LCD / Display Unit
 🔹 Power Supply
 
+---
+
 ## 💻 Software & Tools
 
 - Embedded C  
 - Keil uVision / Arduino IDE  
 - CAN Libraries  
 - Debugging Tools  
+
+---
 
 ## 🔗 Communication Protocol (CAN)
 - Message-based communication system
@@ -76,12 +82,16 @@ Sensors → ARM Controller → CAN Transceiver → CAN Bus → Instrument Cluste
 
 👉 CAN enables multiple devices to communicate without a central computer.
 
+---
+
 ✨ Key Features
 🚗 Real-time vehicle data monitoring
 🔄 CAN-based communication between nodes
 📟 Instrument cluster display simulation
 ⚡ Fast and reliable data transfer
 🔔 Alert system for abnormal values
+
+---
 
 ## 📊 Parameters Monitored
 
@@ -90,7 +100,10 @@ Sensors → ARM Controller → CAN Transceiver → CAN Bus → Instrument Cluste
 - 🚗 Speed  
 - ⚙️ Engine Status  
 
+---
+
 📂 Project Structure
+```bash
 ARM_PROJECT_REAL_TIME_AUTOMOTIVE/
 │
 ├── src/             # Embedded C source code
@@ -98,14 +111,16 @@ ARM_PROJECT_REAL_TIME_AUTOMOTIVE/
 ├── docs/            # Documentation
 ├── assets/          # Images / diagrams
 └── README.md
+```
 
+---
 ## 🚀 How It Works
 - Sensors collect real-time vehicle data
 - ARM controller processes the data
 - Data is transmitted via CAN bus
 - Instrument cluster displays output
 - Alerts generated if abnormal conditions detected
-
+---
 
 ## 💥 Why This Project Matters
 
@@ -113,12 +128,15 @@ ARM_PROJECT_REAL_TIME_AUTOMOTIVE/
 - Shows strong understanding of embedded systems  
 - Implements CAN protocol used in industry  
 - Reflects readiness for embedded/automotive roles  
+---
 
 ## 🔮 Future Enhancements
 - IoT integration for remote monitoring
 - Mobile app dashboard
 - Advanced digital cluster UI
 - CAN FD implementation
+
+---
 
 ## 🧠 Learnings
 - Embedded C programming
@@ -127,7 +145,9 @@ ARM_PROJECT_REAL_TIME_AUTOMOTIVE/
 - Real-time system design
 - Hardware-software integration
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 
 Mahidhar Reddy
 🚀 Embedded Systems Developer | Backend Developer
